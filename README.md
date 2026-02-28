@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**Jonathan-Gonzalez0/Jonathan-Gonzalez0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student passionate about AI, deep learning, and intelligent systems.
 
-Here are some ideas to get you started:
+I enjoy building projects that connect software with real world impact, from control systems to scalable machine learning applications.
 
-- 🔭 I’m currently working on ... Advanced Programming Class
-- 🌱 I’m currently learning ... C++
-- 👯 I’m looking to collaborate on ... C++
-- 🤔 I’m looking for help with ... C++
-- 💬 Ask me about ...  C++/Python
-- 📫 How to reach me: ... jonathan.gonzalez57@upr.edu
-- 😄 Pronouns: ... he/him
+---
 
--->
+## 🚀 Currently Working On
+- Deep learning projects
+- AI system design
+- Applied machine learning research
+- Strengthening systems programming skills (C/C++)
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, C++, C, Java  
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn  
+**Tools:** Git, Linux, VS Code  
+**Other:** Data analysis, control systems, system-level thinking
+
+---
+
+## 📌 Interests
+- Scalable AI systems
+- Intelligent automation
+- Bridging software and hardware
+- Future-proof technology
+
+---
+
+Always learning. Always building.
